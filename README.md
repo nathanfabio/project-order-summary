@@ -8,8 +8,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository - GitHub](https://github.com/nathanfabio/project-order-summary)
+- Live Site URL: [Live site on GitHub Pages](https://nathanfabio.github.io/project-order-summary/)
 
 ### Built with
 - HTML5
