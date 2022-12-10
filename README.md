@@ -17,6 +17,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Website - [Nathan Fabio](https://www.your-site.com)
 - Frontend Mentor - [@nathanfabio](https://www.frontendmentor.io/profile/nathanfabio)
 - Twitter - [@nhfabioo](https://www.twitter.com/nhfabioo)
