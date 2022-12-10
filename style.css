@@ -150,3 +150,19 @@ main {
     color: hsl(228, 45%, 44%);
 }
 
+@media screen and (max-width: 767px){
+    body {
+        background: url(images/pattern-background-mobile.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: var(--Pale-blue);
+    }
+
+    .container {
+        width: 80%;
+    }
+
+    .description p {
+        line-height: 1.5rem;
+    }
+}
