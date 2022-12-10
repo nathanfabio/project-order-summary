@@ -23,6 +23,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color: var(--Pale-blue);
+    overflow-y: hidden;
 }
 
 main {
@@ -35,8 +36,9 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 4rem auto;
+    margin: 1rem auto;
     max-width: 28rem;
+    height: 90%;
     border-radius: 1rem;
     overflow: hidden;
     background-color: #fff;
@@ -141,7 +143,6 @@ main {
 }
 
 .attribution {
-    margin-top: 2rem;
     font-size: 11px;
     text-align: center;
 }
