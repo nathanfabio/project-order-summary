@@ -23,7 +23,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color: var(--Pale-blue);
-    overflow-y: hidden;
 }
 
 main {
@@ -38,7 +37,6 @@ main {
     align-items: center;
     margin: 1rem auto;
     max-width: 28rem;
-    height: 90%;
     border-radius: 1rem;
     overflow: hidden;
     background-color: #fff;
